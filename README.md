@@ -36,7 +36,7 @@ _这是一个使用 **Lua 语言** 编写的 Mod 示例，适用于《卡牌店�
 ```
 BobaCafeSimulator/
 └── Mods/
-    └── MyMod/
+    └── MyMod/   --下面全都不能是中文
         ├── main.lua       # Mod 逻辑（Lua 编写）
         └── preview.png    # 预览图（256×256，正方形）
 ```
