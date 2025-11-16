@@ -91,7 +91,7 @@ local function add_new_drink()
     --名称
     D.DisplayName = "南瓜橙橙"
     --图片路径
-    D.ImagePath = dir .. "5200.png" -- 或 GetLaunchDir()
+    D.ImagePath = dir .. "5200.png" --你的Mod目录的图片
 
     -- 价格（S/M/L）
     D.Value:Add("S", 8.0)
