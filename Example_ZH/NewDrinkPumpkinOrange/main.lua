@@ -44,7 +44,7 @@ local function add_new_drink()
 
     -- 客户会点的温度
     D.CanTemperature = {}
-    D.CanTemperature:Add("Hot")  --Demo目前不支持做除了咖啡的其他热饮
+    -- D.CanTemperature:Add("Hot")  --Demo目前不支持做除了咖啡的其他热饮
     D.CanTemperature:Add("Normal")
     D.CanTemperature:Add("SmallIce")
     D.CanTemperature:Add("Ice")
