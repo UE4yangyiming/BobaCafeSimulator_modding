@@ -72,8 +72,8 @@ BobaCafeSimulator/
 -- 必填信息：会显示在 Mods 界面
 local M = {
     id          = "NewDrinkPumpkinJuice",
-    name        = "增加配方南瓜汁",
-    description = "增加配方南瓜汁",
+    name        = "增加配方南瓜橙橙",
+    description = "增加配方南瓜橙橙",
     version     = "1.0.0",
     author      = "yiming",
 
